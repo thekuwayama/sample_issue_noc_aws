@@ -1,0 +1,6 @@
+.metals/*
+target
+project/*
+!project/*.sbt
+!project/*.scala
+!project/*.properties
